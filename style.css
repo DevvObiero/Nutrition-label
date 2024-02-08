@@ -1,5 +1,5 @@
-* {
-  box-sizing: border-box;
+ 
+  *{box-sizing: border-box;
 }
 
 html {
@@ -84,6 +84,10 @@ p {
 
 .indent {
   margin-left: 1em;
+}
+
+.double-indent {
+  margin-left: 2em;
 }
 
 .daily-value p:not(.no-divider) {
